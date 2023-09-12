@@ -1,8 +1,8 @@
 body{
     background-color: rgb(214, 246, 250);
     background-size: cover;
-    font-family: 'Cormorant Garamond', serif;
     font-family: 'Caprasimo', cursive;
+    font-family: 'Cormorant Garamond', serif;
     align-items: center;
     
     margin: 0 auto;
@@ -12,10 +12,12 @@ body{
   span{
     font-size: 0.5em;
     font-family: 'Caprasimo', cursive;
+    font-family: 'Cormorant Garamond', serif;
   }
 }
 span{
   color: #fff;
+  font-family: 'Cormorant Garamond', serif;
 }
 section {
   margin: 10px;
@@ -47,6 +49,7 @@ container {
   margin-left: auto;
   background-color: rgb(5, 175, 175);
   color: #fff;
+  font-family: 'Caprasimo', cursive;
   font-family: 'Cormorant Garamond', serif;
   width: 10vw;
  }
@@ -72,6 +75,7 @@ container {
 }
 .key{
   border-radius: 5%;
+  font-family: 'Caprasimo', cursive;
   font-family: 'Cormorant Garamond', serif;
   font-size: 15px;
   text-transform: uppercase;
@@ -87,6 +91,7 @@ container {
   background-color:;
   width: 70vw;
   font-family: 'Caprasimo', cursive;
+  font-family: 'Cormorant Garamond', serif;
   font-size: 16px;
   color: rgb(8, 0, 0);
   align-content: center;
@@ -104,6 +109,7 @@ container {
   background-image: radial-gradient(pink, blue, yellow);
   color: white;
   font-family: 'Caprasimo', cursive;
+  font-family: 'Cormorant Garamond', serif;
   padding: 10px;
   font-size: large;
 } 
@@ -122,6 +128,7 @@ button a{
 }
 .medic{
   font-family: 'Caprasimo', cursive;
+  font-family: 'Cormorant Garamond', serif;
   color: white;
   font-size: 10px;
 }
@@ -210,6 +217,7 @@ img:hover{
   font-family: 'Cormorant Garamond', serif;    
   text-align: center;
   text-transform: uppercase;
+  text-decoration: none;
 } 
 .Book{
   display: grid;
@@ -238,6 +246,7 @@ img:hover{
   align-self: center;
   align-items: center;
   align-content: center;
+  font-family: 'Cormorant Garamond', serif;
   margin: 3%;
   padding: 10px;
   border: 0.5rem solid skyblue;
@@ -251,5 +260,6 @@ img:hover{
   height: 50px;
   align-items: center;
   margin: 10px;
+  font-family: 'Cormorant Garamond', serif;
 }
 

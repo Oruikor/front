@@ -197,3 +197,20 @@ font-size: 10px;
 .up{
     margin-top: 85px;
 }
+.container{
+    margin-top: 80px;
+}
+.key{
+    border-radius: 5%;
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(8, 0, 0);
+    margin: 10px;
+    background-color: white;
+  }
+  p{
+    color: #fff;
+  }
